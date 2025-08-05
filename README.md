@@ -134,7 +134,7 @@ Please adhere to this project's `code of conduct`.
 
 
 ## Authors
-- [@naemazam](https://github.com/naemazam?tab=repositories)
+- [@avinesh-pro]
 
 ## License
 
